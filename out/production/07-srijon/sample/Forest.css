@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: #A1C96C;
+}
+.label{
+    -fx-text-fill: #111111;
+}
+.radio-button{
+    -fx-text-fill: #111111;
+}
+#line1 {
+    -fx-stroke: #228B22;
+}
+#line2 {
+    -fx-stroke: #228B22;
+}
+#line3 {
+    -fx-stroke: #228B22;
+}
+#line4 {
+    -fx-stroke: #228B22;
+}
+.button{
+    -fx-background-color: #A1C96C;
+}
